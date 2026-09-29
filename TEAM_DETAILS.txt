@@ -1,0 +1,1 @@
+BEFORE SUBMISSION: Replace all ENTER_ID and ENTER_CONTRIBUTION placeholders in README.md with the actual group details.
